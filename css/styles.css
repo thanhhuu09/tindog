@@ -1,10 +1,10 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
-}
-
-html{
-  scroll-behavior: smooth;
 }
 
 #title {
